@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 200px;
+    font-size: 50px;
+    background-color: darkkhaki;
+    color: darkgreen;
+    text-align: center;
+}
+nav{
+    height: 140px;
+    font-size: 40px;
+    background-color: rgb(232, 219, 35);
+    color: rgb(0, 93, 100);
+    text-align: center;
+}
+.content_section{
+    display: flex;
+    height: 500px;
+}
+.one{ font-size: 40px;
+    background-color: rgb(35, 232, 42);
+    color: rgb(0, 93, 100);
+    text-align: center;
+    width: 20%;
+
+}
+.two{font-size: 40px;
+    background-color: rgb(232, 35, 219);
+    color: rgb(0, 93, 100);
+    text-align: center;
+    width: 20%;
+
+}
+.three{
+    font-size: 40px;
+    background-color: rgb(35, 219, 232);
+    color: rgb(0, 93, 100);
+    text-align: center;
+    width: 20%;
+}
+.four{font-size: 40px;
+    background-color: rgb(232, 35, 127);
+    color: rgb(0, 93, 100);
+    text-align: center;
+    width: 20%;
+
+}
+.five{
+    font-size: 40px;
+    background-color: rgb(232, 55, 35);
+    color: rgb(0, 93, 100);
+    text-align: center;
+    width: 20%;
+}
+footer{ font-size: 40px;
+    background-color: rgb(104, 35, 232);
+    color: rgb(233, 242, 243);
+    text-align: center;
+    height: 100px;
+}
+
